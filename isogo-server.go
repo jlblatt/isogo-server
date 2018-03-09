@@ -3,6 +3,8 @@ package main
 import "fmt"
 import "time"
 
+import "github.com/gorilla/websocket"
+
 func main() {
 	fmt.Printf("Isogo Server 0.1\n")
 	fmt.Printf("%s\n", time.Now())
