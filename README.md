@@ -1,2 +1,2 @@
-# isogo-server
-Isogo game server
+#Isogo Server
+Isogo game server written in Go.
